@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "chai": "^4.3.4",
-    "cucumber": "^7.0.0-rc.0"
+    "@cucumber/cucumber": "^8.0.0-rc.2",
+    "chai": "^4.3.4"
   },
   "dependencies": {
     "puppeteer": "^13.0.1"
